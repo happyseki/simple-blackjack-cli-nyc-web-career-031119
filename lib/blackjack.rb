@@ -45,7 +45,6 @@ def hit?(card_total)
     return card_total
   elsif answer == "h"
    return deal_card + card_total
-   end
   end# code hit? here
 end
 
